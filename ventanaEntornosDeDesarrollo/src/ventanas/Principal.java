@@ -31,6 +31,7 @@ public class Principal {
 	/**
 	 * Launch the application.
 	 * Método principal
+	 * Iniciamos go!!!
 	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
