@@ -4,6 +4,7 @@ import java.util.Random;
 
 /*
  * Clase Aleatorio
+ * Esta clase representa los números aleatorios
  */
 public class Aleatorios {
 
